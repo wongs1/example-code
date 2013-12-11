@@ -1,5 +1,5 @@
 #!/usr/bin/python
-//This script assists in the Kickstart configuration process
+#This script assists in the Kickstart configuration process
 import sys
 import re
 
