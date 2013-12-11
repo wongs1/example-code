@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-
-#4 values
+#This verifies 4 values are entered correctly:
 #first name, last name, zip code, email address
 print "First name: ";
 $firstname = <STDIN>;
